@@ -1,7 +1,6 @@
 
 # 📙 Aplicativo de e-book em Flutter
-This app is make for reading online e book i have made this app in flutter if you want to see all Tutorial of This App in video formate follow my.
-youtube channel ❤️ 
+Este aplicativo foi feito para leitura de e-books on-line. Eu criei este aplicativo em vibração, se você quiser ver todo o tutorial deste aplicativo em formato de vídeo, siga meu canal ❤️ 
 <a href="https://www.youtube.com/@systecango" target="blank">SYSTECANGO</a>
 
 
