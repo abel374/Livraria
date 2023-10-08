@@ -1,16 +1,76 @@
-# e_book
 
-A new Flutter project.
+# 📙 Aplicativo de e-book em Flutter
+This app is make for reading online e book i have made this app in flutter if you want to see all Tutorial of This App in video formate follow my.
+youtube channel ❤️ 
+<a href="https://www.youtube.com/@systecango" target="blank">SYSTECANGO</a>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Pilha de tecnologia
+
+**Cliente:** Flutter,Dart
+
+**Servidor:** Firebase , Dot net
+
+## Características
+
+- Visualização de leitura de PDF
+- Texto para fala
+- Adicionar livro
+- Excluir livro
+- Livro de atualização
+- Gerenciamento de usuários
+
+## Packages usado 
+ - cupertino_icons: ^1.0.2
+ -  get: ^4.6.6
+ - flutter_svg: ^2.0.7
+ - syncfusion_flutter_pdfviewer: ^23.1.36
+ - lottie: ^2.6.0
+ - firebase_core: ^2.16.0
+ - google_sign_in: ^6.1.5
+ - firebase_auth: ^4.10.0
+ - fluttertoast: ^8.2.2
+ - file_picker: ^5.5.0
+-  cloud_firestore: ^4.9.2
+ - firebase_storage: ^11.2.7
+ - image_picker: ^1.0.4
+ - uuid: ^3.0.7
+   
+## Referência de cores são usadas nestes projetos 
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Background Color | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
+| Font Color | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
+| Primary Color | ![#0057FF](https://via.placeholder.com/10/0057FF?text=+) #0057FF |
+| Lebel Color | ![#6B6B6B](https://via.placeholder.com/10/6B6B6B?text=+) #6B6B6B |
+| Secondry Color | ![#00C236](https://via.placeholder.com/10/00C236?text=+) #00C236 |
+
+
+## Execute localmente
+
+Clone the project
+
+```bash
+  git clone https://github.com/abel374/Livraria.git
+```
+
+Open project in the vs code
+
+```bash
+  flutter pub get
+```
+
+run app 
+
+```bash
+  flutter run
+```
+
+
+
+
